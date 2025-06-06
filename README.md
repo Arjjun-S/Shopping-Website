@@ -2,7 +2,8 @@
 
 This is a responsive and interactive **E-commerce website** project built using **HTML, CSS, and JavaScript**. It simulates a basic online shopping experience for users, including product display, cart management, order tracking, and basic admin functionality.
 
-#Features
+# Features
+
 The website allows users to register and log in (to be added), view and browse products on the home page, and add them to their cart. Users can review items in their cart, place orders with cash on delivery, and view their previous orders in the “My Orders” section. An admin module is also included where administrators can log in, add products, and view both orders and customer lists. The UI is designed to be colorful, clean, and user-friendly.
 ---
 # 1.Home Page  
